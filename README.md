@@ -1,4 +1,4 @@
-# 🛒 Thú Mua Đồ Cũ - Nền tảng Mua Bán & Trao Đổi Đồ Cũ
+# 🛒 Thu Mua Đồ Cũ - Nền tảng Mua Bán & Trao Đổi Đồ Cũ
 
 **Phiên bản:** 1.0.0  
 **Ngày cập nhật:** Tháng 1, 2025
